@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Samriddhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samr1dd1&label=Profile%20views&color=0e75b6&style=flat" alt="samr1dd1" /> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,10 +20,3 @@
 [!(https://github-readme-stats.vercel.app/api?username=samr1ddh1)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samr1ddh1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samr1ddh1)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samr1dd1&label=Profile%20views&color=0e75b6&style=flat" alt="samr1dd1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samr1dd1" alt="samr1dd1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
