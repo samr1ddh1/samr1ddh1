@@ -1,4 +1,8 @@
 ### Hi there 👋
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+
 
 <h1 align="center">Hi 👋, I'm Samriddhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -27,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samr1dd1&show_icons=true&locale=en" alt="samr1dd1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samr1dd1&" alt="samr1dd1" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samr1ddh1)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samr1ddh1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
