@@ -6,6 +6,11 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <!--START_SECTION:waka-->
-
+```text
+Python       1 hr 42 mins    ████████████████████▓░░░░   82.26 % 
+HTML         13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Markdown     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+```
 <!--END_SECTION:waka-->
 
