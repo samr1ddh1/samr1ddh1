@@ -6,7 +6,6 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <!--START_SECTION:waka-->
-## Weekly Development Breakdown
 ```text
 Python       1 hr 42 mins    ████████████████████▓░░░░   82.26 % 
 HTML         13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
