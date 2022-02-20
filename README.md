@@ -18,7 +18,7 @@ Text         12 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
     
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/samr1ddh1?history_days=30)
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/samr1ddh1)
 
 
 
