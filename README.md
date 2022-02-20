@@ -17,7 +17,7 @@ Git Config   18 mins         ▓░░░░░░░░░░░░░░░░
 Text         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
-
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/samr1ddh1username?max_languages=15)
 
 
 
