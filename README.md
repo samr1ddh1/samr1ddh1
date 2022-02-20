@@ -7,7 +7,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=samr1ddh1&&show_icons=true&title_color=161e2e&icon_color=31c48d&text_color=4b5563&bg_color=f4f5f7" alt="Samriddhi's Github Stats">
 <div>
 <hr>
-  
+
 <!--START_SECTION:waka-->
 ```text
 Python       6 hrs 20 mins   ████████████░░░░░░░░░░░░░   48.41 % 
@@ -17,8 +17,8 @@ Git Config   18 mins         ▓░░░░░░░░░░░░░░░░
 Text         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 ```
 <!--END_SECTION:waka-->
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/samr1ddh1?max_languages=15)
-
+    
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/samr1ddh1?history_days=30)
 
 
 
