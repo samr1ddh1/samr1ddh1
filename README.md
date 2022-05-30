@@ -8,17 +8,6 @@
 <div>
 <hr>
 
-<!--START_SECTION:waka-->
-```text
-Python       6 hrs 20 mins   ████████████░░░░░░░░░░░░░   48.41 % 
-HTML         5 hrs 26 mins   ██████████▒░░░░░░░░░░░░░░   41.46 % 
-Other        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Git Config   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Text         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-```
-<!--END_SECTION:waka-->
-    
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/samr1ddh1)
 
 
 
